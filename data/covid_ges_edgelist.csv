@@ -1,0 +1,34 @@
+source,target
+Country,official language and ethnic groups
+Confirmed Covid-19 cases,New Covid-19 cases
+Recovered Covid-19 cases,Confirmed Covid-19 cases
+Recovered Covid-19 cases,Active Covid-19 cases
+Recovered Covid-19 cases,New Covid-19 cases
+Active Covid-19 cases,Country
+Active Covid-19 cases,Confirmed Covid-19 cases
+Active Covid-19 cases,New Covid-19 cases
+Active Covid-19 cases,Deaths / 100 Covid-19 Cases 
+Active Covid-19 cases,WHO Region
+Deaths / 100 Covid-19 Cases ,Confirmed Covid-19 cases
+Deaths / 100 Covid-19 Cases ,WHO Region
+Recovered / 100 Covid-19 Cases,Active Covid-19 cases
+Recovered / 100 Covid-19 Cases,WHO Region
+Deaths / 100 Recovered Covid-19 cases,Confirmed Covid-19 cases
+Deaths / 100 Recovered Covid-19 cases,Active Covid-19 cases
+Deaths / 100 Recovered Covid-19 cases,New Covid-19 cases
+Deaths / 100 Recovered Covid-19 cases,Recovered / 100 Covid-19 Cases
+1 week % increase Covid-19 cases,New Covid-19 cases
+1 week % increase Covid-19 cases,WHO Region
+WHO Region,Country
+WHO Region,Confirmed Covid-19 cases
+WHO Region,area and population
+temperatures and precipitation,Confirmed Covid-19 cases
+temperatures and precipitation,Deaths / 100 Covid-19 Cases 
+temperatures and precipitation,the amount of precipitation
+temperatures and precipitation,area and population
+GDP and Gini coefficient.,temperatures and precipitation
+weather,temperatures and precipitation
+economy of a country.,Active Covid-19 cases
+economy of a country.,WHO Region
+population size,Deaths / 100 Covid-19 Cases 
+population size,Recovered / 100 Covid-19 Cases

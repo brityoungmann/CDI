@@ -1,0 +1,16 @@
+source,target
+Country,official Language
+Deaths / 100 Cases,spread of the covid-19 virus
+Deaths / 100 Cases,time zone
+economy of a country,population size
+new cases of the covid-19,official Language
+new cases of the covid-19,spread of the covid-19 virus
+climate,official Language
+climate,geography
+geography,climate
+geography,time zone
+spread of the covid-19 virus,Country
+population size,economy of a country
+population size,official Language
+population size,time zone
+ethnic groups,Country

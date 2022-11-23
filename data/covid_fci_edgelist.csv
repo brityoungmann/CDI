@@ -1,0 +1,6 @@
+source,target
+Country,WHO Region
+Confirmed Covid-19 cases,Active Covid-19 cases
+Confirmed Covid-19 cases,New Covid-19 cases
+Active Covid-19 cases,Confirmed Covid-19 cases
+WHO Region,Country

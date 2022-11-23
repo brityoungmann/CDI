@@ -1,0 +1,10 @@
+Cluster,N_Vars,Eigval1,Eigval2,VarProp,center,Variables
+0,8,4.949308478717574,0.8922947684168616,0.6186635598396968,gdpPppRank,drivesOn;gdpPppYear;gini;giniChange;hdiChange;hdiYear;largestCity;gdpPppRank;hdi;giniRank
+1,7,3.9467086202968344,0.9779117093042659,0.5638155171852619,percentageOfAreaWater,Confirmed last week;New cases;New deaths;New recovered;mapCaption;percentageOfAreaWater
+3,3,1.9148482857306854,0.7054428337429302,0.6382827619102287,octLowC,octLowC;source;octHighC;mayLowC;octPrecipitationMm;julPrecipitationMm
+2,5,3.3410296776374024,0.7878644439590194,0.6682059355274805,sovereigntyType,currency;currencyCode;officialLanguage;officialLanguages;sovereigntyType
+6,3,1.6196454670516622,0.8355885459748581,0.539881822350554,areaSqMi,areaSqMi;timeZoneDst;populationCensus;areaKm
+7,4,2.26678536516395,0.9530979159931818,0.5666963412909878,Active,Active covid-19 cases;hypernym;Deaths / 100 Recovered covid-19 cases;populationCensus;Recovered / 100 covid-19 Cases;1 week % increase covid-19
+8,4,2.1902399795090397,0.8577945803066002,0.5475599948772598,populationEstimateYear,populationEstimate;WHO Region;populationEstimateYear;dpPppRank
+14,3,1.635434441487086,0.7655720018163618,0.5451448138290288,ethnicGroup,ethnicGroup;language;iso31661Code
+15,2,1.5173593059279633,0.4826406940720368,0.7586796529639817,timeZoneDst,timeZoneDst;utcOffsetDst

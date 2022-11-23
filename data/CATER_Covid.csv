@@ -1,0 +1,27 @@
+Country,Deaths / 100 Covid-19 Cases
+Country,economy of a country
+Country,climate
+Country,official Language
+Country,geography
+Country,spread of the covid-19 virus
+Country,population size
+Country,ethnic groups
+Country,time zone
+economy of a country,Deaths / 100 Covid-19 Cases
+economy of a country,new cases of the covid-19
+economy of a country,spread of the covid-19 virus
+new cases of the covid-19,Deaths / 100 Covid-19 Cases
+climate,Deaths / 100 Covid-19 Cases
+climate,spread of the covid-19 virus
+official Language,Country
+geography,Country
+geography,time zone
+spread of the covid-19 virus,Deaths / 100 Covid-19 Cases
+population size,Deaths / 100 Covid-19 Cases
+population size,economy of a country
+population size,spread of the covid-19 virus
+ethnic groups,Country
+ethnic groups,official Language
+ethnic groups,population size
+time zone,climate
+time zone,geography

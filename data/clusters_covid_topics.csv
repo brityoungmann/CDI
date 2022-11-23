@@ -1,0 +1,9 @@
+,Unnamed: 0,Cluster,N_Vars,Eigval1,Eigval2,VarProp,center,Variables,Topics
+0,0,0,33,30.55765097471616,0.8970045988096409,0.9259894234762476,source,aprHighC;aprMeanC;augHighC;augLowC;augMeanC;decLowC;decPrecipitationMm;febLowC;janLowC;janPrecipitationMm;julHighC;julLowC;julMeanC;junHighC;junLowC;junMeanC;location;marHighC;marLowC;mayHighC;mayLowC;mayMeanC;metricFirst;novHighC;novPrecipitationMm;octHighC;octMeanC;octPrecipitationMm;sepHighC;sepLowC;sepMeanC;singleLine;source,temperatures and precipitation
+1,1,1,10,6.943545538294031,0.9167612576071064,0.6943545538294031,giniChange,drivesOn;gdpNominalYear;gdpPppYear;gini;giniChange;giniCoefficient;giniYear;hdiChange;hdiYear;largestCity,GDP and Gini coefficient.
+2,2,2,8,7.51083099503015,0.3350225945688225,0.9388538743787684,febPrecipitationMm,aprPrecipitationMm;augPrecipitationMm;febPrecipitationMm;julPrecipitationMm;junPrecipitationMm;marPrecipitationMm;mayPrecipitationMm;sepPrecipitationMm,the amount of precipitation
+3,3,3,5,3.343995893557169,0.8074233776968623,0.6687991787114338,ethnicGroup,currency;currencyCode;officialLanguage;officialLanguages;ethnicGroup,official language and ethnic groups
+4,5,5,12,10.802263382374589,0.8730739586265355,0.9001886151978825,sovereigntyNote,aprLowC;decHighC;decMeanC;febHighC;febMeanC;janHighC;janMeanC;marMeanC;novLowC;novMeanC;octLowC;sovereigntyNote,weather
+5,6,6,3,1.6196454670516622,0.8355885459748581,0.539881822350554,areaSqMi,areaSqMi;timeZoneDst;populationCensus,area and population
+6,7,7,5,2.765910520614563,0.9295812897591892,0.5531821041229127,nationalAnthem,gdpNominalPerCapitaRank;gdpNominalRank;gdpPppPerCapitaRank;nationalAnthem;utcOffset,economy of a country.
+9,11,11,3,1.692702180738722,0.7208976853945993,0.5642340602462406,populationEstimate,gdpPppRank;populationEstimate;populationEstimateYear,population size
