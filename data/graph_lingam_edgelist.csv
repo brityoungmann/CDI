@@ -1,0 +1,67 @@
+AIRLINE,DAY_OF_WEEK
+ORIGIN_AIRPORT,DAY_OF_WEEK
+ORIGIN_AIRPORT,AIRLINE
+ORIGIN_AIRPORT,SECURITY_DELAY
+ORIGIN_AIRPORT,monthly weather statistics
+ORIGIN_AIRPORT,humidity.
+ORIGIN_AIRPORT,amount of precipitation
+ORIGIN_AIRPORT,average high and low temperatures
+ORIGIN_AIRPORT,population size
+ORIGIN_AIRPORT,average monthly snowfall
+DEPARTURE_DELAY,AIRLINE
+DEPARTURE_DELAY,SECURITY_DELAY
+DISTANCE,DAY_OF_WEEK
+DISTANCE,AIRLINE
+DISTANCE,ORIGIN_AIRPORT
+DISTANCE,DEPARTURE_DELAY
+DISTANCE,monthly weather statistics
+DISTANCE,humidity.
+DISTANCE,amount of precipitation
+DISTANCE,average high and low temperatures
+DISTANCE,average monthly snowfall
+SECURITY_DELAY,AIRLINE
+monthly weather statistics,DAY_OF_WEEK
+monthly weather statistics,SECURITY_DELAY
+monthly weather statistics,humidity.
+monthly weather statistics,average monthly snowfall
+humidity.,DAY_OF_WEEK
+humidity.,AIRLINE
+Airline company statistics,AIRLINE
+Airline company statistics,ORIGIN_AIRPORT
+Airline company statistics,DISTANCE
+Airline company statistics,monthly weather statistics
+Airline company statistics,amount of precipitation
+Airline company statistics,area measurements
+Airline company statistics,average high and low temperatures
+Airline company statistics,population size
+Airline company statistics,average monthly snowfall
+amount of precipitation,AIRLINE
+amount of precipitation,DEPARTURE_DELAY
+amount of precipitation,monthly weather statistics
+amount of precipitation,humidity.
+amount of precipitation,average high and low temperatures
+amount of precipitation,population size
+area measurements,DAY_OF_WEEK
+area measurements,AIRLINE
+area measurements,ORIGIN_AIRPORT
+area measurements,DISTANCE
+area measurements,monthly weather statistics
+area measurements,humidity.
+area measurements,amount of precipitation
+area measurements,average high and low temperatures
+area measurements,population size
+area measurements,average monthly snowfall
+average high and low temperatures,DAY_OF_WEEK
+average high and low temperatures,AIRLINE
+average high and low temperatures,monthly weather statistics
+average high and low temperatures,humidity.
+average high and low temperatures,average monthly snowfall
+population size,AIRLINE
+population size,DEPARTURE_DELAY
+population size,SECURITY_DELAY
+population size,monthly weather statistics
+population size,average high and low temperatures
+population size,average monthly snowfall
+average monthly snowfall,AIRLINE
+average monthly snowfall,SECURITY_DELAY
+average monthly snowfall,humidity.

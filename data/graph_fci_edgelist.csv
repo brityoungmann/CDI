@@ -1,0 +1,77 @@
+MONTH,DAY_OF_WEEK
+MONTH,AIRLINE
+MONTH,DEPARTURE_DELAY
+MONTH,SECURITY_DELAY
+MONTH,Airline company statistics
+DAY_OF_WEEK,MONTH
+DAY_OF_WEEK,DEPARTURE_DELAY
+DAY_OF_WEEK,DISTANCE
+DAY_OF_WEEK,area measurements
+AIRLINE,MONTH
+AIRLINE,DISTANCE
+AIRLINE,SECURITY_DELAY
+AIRLINE,humidity.
+AIRLINE,Airline company statistics
+AIRLINE,area measurements
+AIRLINE,population size
+ORIGIN_AIRPORT,AIRLINE
+ORIGIN_AIRPORT,DEPARTURE_DELAY
+ORIGIN_AIRPORT,DISTANCE
+ORIGIN_AIRPORT,SECURITY_DELAY
+ORIGIN_AIRPORT,amount of precipitation
+DEPARTURE_DELAY,MONTH
+DEPARTURE_DELAY,DAY_OF_WEEK
+DEPARTURE_DELAY,AIRLINE
+DEPARTURE_DELAY,DISTANCE
+DEPARTURE_DELAY,SECURITY_DELAY
+DEPARTURE_DELAY,Airline company statistics
+DISTANCE,DAY_OF_WEEK
+DISTANCE,AIRLINE
+DISTANCE,ORIGIN_AIRPORT
+DISTANCE,DEPARTURE_DELAY
+DISTANCE,monthly weather statistics
+DISTANCE,Airline company statistics
+DISTANCE,amount of precipitation
+DISTANCE,area measurements
+SECURITY_DELAY,MONTH
+SECURITY_DELAY,AIRLINE
+SECURITY_DELAY,ORIGIN_AIRPORT
+monthly weather statistics,DISTANCE
+monthly weather statistics,humidity.
+monthly weather statistics,amount of precipitation
+monthly weather statistics,average high and low temperatures
+monthly weather statistics,population size
+monthly weather statistics,average monthly snowfall
+humidity.,AIRLINE
+humidity.,monthly weather statistics
+humidity.,Airline company statistics
+humidity.,amount of precipitation
+humidity.,area measurements
+humidity.,average high and low temperatures
+Airline company statistics,MONTH
+Airline company statistics,AIRLINE
+Airline company statistics,DEPARTURE_DELAY
+Airline company statistics,DISTANCE
+Airline company statistics,humidity.
+Airline company statistics,amount of precipitation
+Airline company statistics,average monthly snowfall
+amount of precipitation,ORIGIN_AIRPORT
+amount of precipitation,DISTANCE
+amount of precipitation,Airline company statistics
+area measurements,DAY_OF_WEEK
+area measurements,AIRLINE
+area measurements,DISTANCE
+area measurements,humidity.
+area measurements,Airline company statistics
+area measurements,population size
+average high and low temperatures,humidity.
+average high and low temperatures,population size
+average high and low temperatures,average monthly snowfall
+population size,AIRLINE
+population size,amount of precipitation
+population size,area measurements
+average monthly snowfall,monthly weather statistics
+average monthly snowfall,Airline company statistics
+average monthly snowfall,amount of precipitation
+average monthly snowfall,average high and low temperatures
+average monthly snowfall,population size

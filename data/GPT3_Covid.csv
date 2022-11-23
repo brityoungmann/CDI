@@ -1,0 +1,82 @@
+Country,Deaths / 100 Covid-19 Cases
+Country,economy of a country
+Country,climate
+Country,official Language
+Country,geography
+Country,spread of the covid-19 virus
+Country,population size
+Country,ethnic groups
+Country,time zone
+Deaths / 100 Covid-19 Cases,new cases of the covid-19
+Deaths / 100 Covid-19 Cases,climate
+Deaths / 100 Covid-19 Cases,official Language
+Deaths / 100 Covid-19 Cases,geography
+Deaths / 100 Covid-19 Cases,population size
+Deaths / 100 Covid-19 Cases,ethnic groups
+Deaths / 100 Covid-19 Cases,time zone
+economy of a country,Country
+economy of a country,Deaths / 100 Covid-19 Cases
+economy of a country,new cases of the covid-19
+economy of a country,official Language
+economy of a country,geography
+economy of a country,spread of the covid-19 virus
+economy of a country,population size
+economy of a country,ethnic groups
+new cases of the covid-19,Country
+new cases of the covid-19,Deaths / 100 Covid-19 Cases
+new cases of the covid-19,geography
+new cases of the covid-19,ethnic groups
+climate,Country
+climate,Deaths / 100 Covid-19 Cases
+climate,economy of a country
+climate,geography
+climate,spread of the covid-19 virus
+climate,population size
+climate,ethnic groups
+climate,time zone
+official Language,Country
+official Language,Deaths / 100 Covid-19 Cases
+official Language,economy of a country
+official Language,geography
+official Language,spread of the covid-19 virus
+official Language,population size
+official Language,time zone
+geography,Country
+geography,Deaths / 100 Covid-19 Cases
+geography,economy of a country
+geography,new cases of the covid-19
+geography,official Language
+geography,spread of the covid-19 virus
+geography,population size
+geography,ethnic groups
+geography,time zone
+spread of the covid-19 virus,Country
+spread of the covid-19 virus,Deaths / 100 Covid-19 Cases
+spread of the covid-19 virus,official Language
+spread of the covid-19 virus,geography
+spread of the covid-19 virus,ethnic groups
+population size,Country
+population size,Deaths / 100 Covid-19 Cases
+population size,economy of a country
+population size,new cases of the covid-19
+population size,climate
+population size,official Language
+population size,geography
+population size,spread of the covid-19 virus
+population size,ethnic groups
+population size,time zone
+ethnic groups,Country
+ethnic groups,Deaths / 100 Covid-19 Cases
+ethnic groups,economy of a country
+ethnic groups,new cases of the covid-19
+ethnic groups,official Language
+ethnic groups,geography
+ethnic groups,spread of the covid-19 virus
+ethnic groups,population size
+ethnic groups,time zone
+time zone,Country
+time zone,economy of a country
+time zone,climate
+time zone,geography
+time zone,population size
+time zone,ethnic groups

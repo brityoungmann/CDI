@@ -1,0 +1,27 @@
+source,target
+DEPARTURE_DELAY,ORIGIN_AIRPORT
+population density.,ORIGIN_AIRPORT
+population density.,area
+population density.,state
+Airline statistics,ORIGIN_AIRPORT
+Airline statistics,DEPARTURE_DELAY
+Airline statistics,population density.
+area,ORIGIN_AIRPORT
+area,Airline statistics
+date,ORIGIN_AIRPORT
+date,DEPARTURE_DELAY
+date,area
+date,state
+temperatures,ORIGIN_AIRPORT
+temperatures,DEPARTURE_DELAY
+temperatures,population density.
+temperatures,area
+temperatures,state
+temperatures,geography
+state,ORIGIN_AIRPORT
+state,population density.
+state,Airline statistics
+geography,population density.
+geography,area
+geography,temperatures
+geography,state

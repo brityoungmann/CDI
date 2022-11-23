@@ -1,0 +1,53 @@
+MONTH,DEPARTURE_DELAY
+DAY_OF_WEEK,MONTH
+DAY_OF_WEEK,DISTANCE
+AIRLINE,MONTH
+ORIGIN_AIRPORT,AIRLINE
+ORIGIN_AIRPORT,DEPARTURE_DELAY
+DEPARTURE_DELAY,DAY_OF_WEEK
+DEPARTURE_DELAY,AIRLINE
+DEPARTURE_DELAY,SECURITY_DELAY
+DISTANCE,AIRLINE
+DISTANCE,ORIGIN_AIRPORT
+DISTANCE,DEPARTURE_DELAY
+DISTANCE,Airline company statistics
+SECURITY_DELAY,MONTH
+SECURITY_DELAY,AIRLINE
+SECURITY_DELAY,ORIGIN_AIRPORT
+SECURITY_DELAY,DEPARTURE_DELAY
+monthly weather statistics,DISTANCE
+monthly weather statistics,amount of precipitation
+monthly weather statistics,average high and low temperatures
+monthly weather statistics,population size
+humidity.,AIRLINE
+humidity.,monthly weather statistics
+humidity.,Airline company statistics
+humidity.,amount of precipitation
+Airline company statistics,MONTH
+Airline company statistics,AIRLINE
+Airline company statistics,DEPARTURE_DELAY
+amount of precipitation,ORIGIN_AIRPORT
+amount of precipitation,DISTANCE
+amount of precipitation,monthly weather statistics
+amount of precipitation,Airline company statistics
+amount of precipitation,average high and low temperatures
+amount of precipitation,population size
+area measurements,DAY_OF_WEEK
+area measurements,AIRLINE
+area measurements,DISTANCE
+area measurements,humidity.
+area measurements,Airline company statistics
+area measurements,population size
+average high and low temperatures,monthly weather statistics
+average high and low temperatures,humidity.
+average high and low temperatures,amount of precipitation
+average high and low temperatures,population size
+average high and low temperatures,average monthly snowfall
+population size,AIRLINE
+population size,monthly weather statistics
+population size,amount of precipitation
+average monthly snowfall,monthly weather statistics
+average monthly snowfall,Airline company statistics
+average monthly snowfall,amount of precipitation
+average monthly snowfall,average high and low temperatures
+average monthly snowfall,population size

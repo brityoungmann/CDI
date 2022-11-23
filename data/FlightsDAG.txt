@@ -1,0 +1,42 @@
+Departure_City ; DEPARTURE_DELAY
+Departure_City ; Precipitation Days
+Departure_City ; area
+Departure_City ; snow days
+DEPARTURE_DELAY ; Departure_City
+DEPARTURE_DELAY ; Precipitation Days
+DEPARTURE_DELAY ; area
+Precipitation Days ; DEPARTURE_DELAY
+Precipitation Days ; area
+Precipitation Days ; Airline company financial performance
+Precipitation Days ; humidity
+Precipitation Days ; average temperature
+Precipitation Days ; snow days
+area ; Departure_City
+area ; DEPARTURE_DELAY
+area ; Precipitation Days
+area ; Airline company financial performance
+area ; humidity
+area ; average temperature
+area ; snow days
+Airline company financial performance ; DEPARTURE_DELAY
+Airline company financial performance ; area
+Airline company financial performance ; snow days
+humidity ; Departure_City
+humidity ; DEPARTURE_DELAY
+humidity ; Precipitation Days
+humidity ; area
+humidity ; Airline company financial performance
+humidity ; average temperature
+humidity ; snow days
+average temperature ; Departure_City
+average temperature ; DEPARTURE_DELAY
+average temperature ; Precipitation Days
+average temperature ; area
+average temperature ; Airline company financial performance
+average temperature ; humidity
+average temperature ; snow days
+snow days ; Departure_City
+snow days ; Precipitation Days
+snow days ; area
+snow days ; Airline company financial performance
+snow days ; average temperature
